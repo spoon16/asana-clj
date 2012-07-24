@@ -1,8 +1,8 @@
 # asana-clj
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+Clojure bindings for the Asana API
 
-The choice is up to you!
+http://developer.asana.com/documentation/
 
 ## Usage
 
@@ -10,6 +10,6 @@ FIXME
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Eric Schoonover
 
 Distributed under the Eclipse Public License, the same as Clojure.
